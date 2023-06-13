@@ -29,6 +29,9 @@ if($email != false && $password != false){
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
     @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+    body{
+        background-color: black;
+    }
     nav{
         padding-left: 100px!important;
         padding-right: 100px!important;
