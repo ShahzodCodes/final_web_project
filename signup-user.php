@@ -13,7 +13,6 @@
             <div class="col-md-4 offset-md-4 form">
                 <form action="signup-user.php" method="POST" autocomplete="">
                     <h2 class="text-center">Signup Form</h2>
-                    <p class="text-center">It's quick and easy.</p>
                     <?php
                     if(count($errors) == 1){
                         ?>
